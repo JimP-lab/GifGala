@@ -4,3 +4,4 @@ GiGala is created with html css
 JavaScript prompt engineering and firebase.
 GifGala have been deployed with GitHub pages.
 Here is the link to GitHub pages:
+https://pages.github.com/
