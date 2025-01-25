@@ -1,9 +1,11 @@
-GifGala is an event party that guests can participate in the event by doing a reservation.
+# GifGala
 
-GiGala was created with html css JavaScript prompt engineering and firebase.
+GifGala is an interactive event platform where guests can make reservations to participate in our exciting events. Built with modern web technologies including HTML, CSS, and JavaScript, GifGala provides a seamless and engaging user experience. Our backend is powered by Firebase, ensuring reliable and scalable data storage and authentication.
 
-GifGala was deployed with GitHub pages 
+The project is deployed using GitHub Pages, providing easy access and rapid deployment for our users.
 
-Here is the link to GifGala: https://jimp-lab.github.io/GifGala/
+Explore GifGala and join the fun today!
 
-Here is the link to GitHub pages: https://pages.github.com/
+[Visit GifGala](https://jimp-lab.github.io/GifGala/)
+
+Learn more about deploying with GitHub Pages [here](https://pages.github.com/).
